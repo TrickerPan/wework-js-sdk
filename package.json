@@ -1,6 +1,6 @@
 {
   "name": "wework-js-sdk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "企业微信 js-sdk 封装, 用于企业微信二次开发.",
   "main": "index.js",
   "scripts": {
