@@ -1,0 +1,26 @@
+{
+  "name": "wework-js-sdk",
+  "version": "1.2.0",
+  "description": "企业微信 js-sdk 封装, 用于企业微信二次开发.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrickerPan/wework-js-sdk.git"
+  },
+  "keywords": [
+    "wework",
+    "wechat",
+    "js-sdk",
+    "wework-js-sdk",
+    "wechat-js-sdk"
+  ],
+  "author": "Tricker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrickerPan/wework-js-sdk/issues"
+  },
+  "homepage": "https://github.com/TrickerPan/wework-js-sdk#readme"
+}
